@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Room
+  - Ground
+  - ColourChange
+  - PowerUpCharge
+  - Key
+  - SpeedIncrease
+  - Battery
+  - Ladder
+  - BatteryRed
+  - BatteryGreen
+  - BatteryBlue
+  - ButtonRed
+  - ButtonBlue
+  - TopElevator
+  - BottomElevator
+  - ButtonRedPeopleMover
+  - Zipline
+  - BatteryPurple
+  - PortalB
+  - PortalC
+  - PortalD
+  - PortalReturn
+  - Wall
+  - PortalIn
+  - PortalTimerStart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
